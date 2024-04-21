@@ -149,7 +149,6 @@
 	}
 .leaflet-right .leaflet-control {
 	float: right;
-	opacity: .75;
 	}
 .leaflet-top .leaflet-control {
 	margin-top: 10px;
@@ -162,6 +161,7 @@
 	}
 .leaflet-right .leaflet-control {
 	margin-right: 10px;
+	opacity: .75;
 	}
 
 
